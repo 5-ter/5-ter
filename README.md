@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hello, Friend
 
-<!--
-**5-ter/5-ter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a physics engineering student transferring into computer engineering and cybersecurity.
 
-Here are some ideas to get you started:
+### Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Penetration testing methodologies
+- Network reconnaissance and enumeration
+- Vulnerability exploitation
+- Web application security
+- Linux system administration
+
+### Currently Studying
+
+Penetration testing, Python, Linux
+
+### Projects
+
+- [Download Organizer](https://github.com/5-ter/download-organizer) - Python script for file organization based on magic numbers
+
+- [Port Scanner](https://github.com/5-ter/port_scanner) - Python port scanner
+
+### Languages
+- Portuguese (native)
+- English (fluent)
+
