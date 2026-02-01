@@ -24,3 +24,4 @@ Penetration testing, Python, Linux
 - Portuguese (native)
 - English (fluent)
 
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/5ter.png)](https://tryhackme.com/p/5ter)
