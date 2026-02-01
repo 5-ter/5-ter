@@ -24,4 +24,9 @@ Penetration testing, Python, Linux
 - Portuguese (native)
 - English (fluent)
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-5ter-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/5ter)
+  
+<p align="center">
+  <a href="https://tryhackme.com/p/5ter">
+    <img src="https://img.shields.io/badge/TryHackMe-5ter-green?style=for-the-badge&logo=tryhackme" alt="TryHackMe">
+  </a>
+</p>
